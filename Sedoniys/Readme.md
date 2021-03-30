@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 - Студент: [Елена Сунцова](https://up.htmlacademy.ru/htmlcss/29/user/1452523).
-- Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
+
 
 ---
 
